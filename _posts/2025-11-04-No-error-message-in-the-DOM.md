@@ -1,7 +1,7 @@
 ---
 title:  "No error message in the DOM"
 date:   2025-11-04
-categories: [form-validation, frontend, stimulus]
+tags: [form-validation, frontend, stimulus]
 ---
 Trying to submit a form and when there are
 fields missing the form can't submit and there
