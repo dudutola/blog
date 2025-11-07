@@ -3,7 +3,9 @@ title:  "Solution | The invalid form control ... is not focusable"
 date:   2025-11-05
 tags: [form-validation, frontend, stimulus]
 ---
-<!-- link para blog com problmea -->
+<!-- link para blog com problema -->
+[No error message in the DOM](/blog/2025/11/04/No-error-message-in-the-DOM.html)
+
 When an input has the hidden and required properties set
 to `true`, the browser doesn't show the validation messages
 and instead warns on the console that:
